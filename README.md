@@ -1,2 +1,1 @@
-# holbertonschool-shell
-shell
+this is a test for shell commands
