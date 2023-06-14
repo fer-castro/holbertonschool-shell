@@ -1,5 +1,7 @@
 0 pwd - Write a script that prints the absolute path name of the current working directory. 1 ls - Display the contents list of your current directory.
 
+1 ls - Display the contents list of your current directory.
+
 2 cd ~ - Write a script that changes the working directory to the user’s home directory.
 
 3 ls -l - Display current directory contents in a long format
